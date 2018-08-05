@@ -1,0 +1,51 @@
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+#row1 {
+    display:flex;
+    justify-content: space-around;
+   
+}
+
+#row2 {
+    display:flex;
+    justify-content: space-around;
+}
+
+#row3 {
+    display:flex;
+    justify-content: space-around;
+}
+#row4 {
+    display:flex;
+    justify-content:space-around;
+}
+#picture {
+    display:flex;
+    justify-content: center;
+}
+#aboutmecss {
+    background: lightblue;
+}
+
+#contactcss {
+    background: lightblue;
+}
